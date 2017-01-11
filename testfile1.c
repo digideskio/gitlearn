@@ -1,4 +1,4 @@
 void main ()
 {
-   printf("version 1.0");
+   printf("version 1.0");sssssssss
 }
